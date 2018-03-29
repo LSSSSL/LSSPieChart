@@ -25,4 +25,4 @@
     //[chart strokeChart];
     
     
-![image](https://github.com/LSSPieChart/PieChart/PieChart/Image.png)
+![image](https://github.com/LSSSSL/LSSPieChart/blob/master/PieChart/PieChart/Image.png)
